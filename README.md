@@ -1,5 +1,5 @@
 ExpNo 5 : Implement Simple Hill Climbing Algorithm
-Name:  MUKESH S
+Name: MUKESH S
 Register Number: 2305002016
 AIM:
 Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration
